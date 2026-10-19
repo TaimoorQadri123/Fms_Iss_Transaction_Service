@@ -1,0 +1,3 @@
+123456	Kili Dur 	Kili Dur Muhammad		27.25259	66.32217	P	PPL	PK		02	1173663			0		1282	Asia/Karachi	2025-07-18
+123456	Kili Muhammad	Kili Muhammad		27.23427	66.30767	P	PPL	PK		02	1173663			0		1243	Asia/Karachi	2025-07-18
+123456	Kili Hazur Bakhsh	Kili Hazur Bakhsh		27.08061	66.29225	P	PPL	PK		02	1173663			0		1152	Asia/Karachi	2025-07-18

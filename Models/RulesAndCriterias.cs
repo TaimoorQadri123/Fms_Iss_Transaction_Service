@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FMSISSTransactionService.Models
+{
+    public class RulesAndCriterias
+    {
+        public long ParameterId { get; set; }
+        public long CriteriaId { get; set; }
+        public string FieldType { get; set; }
+        public string Operator { get; set; }
+        public string ParameterName { get; set; }
+        public string Value { get; set; }
+        public long RuleId { get; set; }
+        public string LogicalOperator { get; set; }
+        public string CriteriaType { get; set; }
+        public bool IsCumulative { get; set; }
+        public bool IsDeleted { get; set; }
+    }
+}
